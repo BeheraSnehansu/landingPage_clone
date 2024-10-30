@@ -10,7 +10,7 @@ const Hero = () => {
                 <p className='text-[#D46D25] font-semibold text-[7vw] leading-[7vw] md:text-[3.5rem] lg:text-[2.1rem] xl:text-[3.4rem] md:leading-[3rem] lg:leading-[2rem] xl:leading-[3rem]'>Innovators_</p>
 
 
-                <p className='text-[#491D5F] text-[3.08vw] md:text-[1.6rem] lg:text-[1rem] xl:text-[1.6rem] font-medium'>”learn grow and innovate with the guidance of experts"</p>
+                <p className='text-[#491D5F] text-[3.08vw] md:text-[1.6rem] lg:text-[1rem] xl:text-[1.6rem] font-medium'>&quot;learn grow and innovate with the guidance of experts&quot;</p>
 
 
                 <p className='text-[#9A69B8] text-[2.4vw] w-[77vw] md:text-[1.25rem] md:w-[40rem] lg:text-[0.8rem] xl:text-[1.24rem] lg:w-[27rem] xl:w-[40rem] font-medium'>A mission to bridge the gap between academia by providing hands-on
