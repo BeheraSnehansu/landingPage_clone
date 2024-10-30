@@ -33,10 +33,10 @@ const Hero = () => {
             <div className='flex flex-col items-center justify-center gap-2'>
                 <Image src="/heroSectionImg.svg" alt='hero_img' width={1000} height={1000} className='w-[70vw] lg:w-[43rem]' />
                 <div className='flex lg:hidden flex-col items-start justify-center gap-3 w-[33vw]'>
-                    <button className='text-[1.5vw] md:text-[2vw] text-white bg-[#491D5F] py-[1.8vw] px-[12vw] md:px-[2vw] md:py-[1.2vw]  rounded-3xl font-semibold w-full'>Get Started</button>
+                    <button className='text-[1.5vw] md:text-[2vw] text-white bg-[#491D5F] py-[1.8vw] px-[12vw] md:px-[2vw] md:py-[1.2vw]  rounded-3xl font-semibold'>Get Started</button>
                     <div className='flex justify-start items-center w-full'>
-                        <input type='email' placeholder='enter your mail' className='text-[1.8vw] md:text-[1.8vw] w-auto  px-[1vw] md:w-auto py-[1.5vw] md:px-[1vw] md:py-[1.2vw]  rounded-l-3xl ring-1 ring-[#491D5F]'></input>
-                        <button className='text-[1.9vw] md:text-[1.8vw] px-[1.6vw] py-[1.5vw] md:px-[2vw] md:py-[1.2vw] rounded-r-3xl ring-1 ring-[#491D5F] bg-[#491D5F] text-white font-bold'>Sign up</button>
+                        <input type='email' placeholder='enter your mail' className='text-[1.7vw] md:text-[1.8vw] w-auto  px-[1vw] md:w-auto py-[1.5vw] md:px-[1vw] md:py-[1.2vw]  rounded-l-3xl ring-1 ring-[#491D5F]'></input>
+                        <button className='text-[1.7vw] md:text-[1.8vw] px-[1.6vw] py-[1.5vw] md:px-[2vw] md:py-[1.2vw] rounded-r-3xl ring-1 ring-[#491D5F] bg-[#491D5F] text-white font-bold'>Sign up</button>
                     </div>
                 </div>
             </div>
